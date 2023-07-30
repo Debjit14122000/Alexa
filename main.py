@@ -56,9 +56,6 @@ def run_alexa():
     elif 'give me your introduction' in command:
         print("I am DEBJIT GHOSH .My father name is BISWAJIT GHOSH and my mother name is PALLABI GHOSH.I live in ASANSOL BURNPUR and my pin code is 713325.my mobile number is 7001805791")
         talk("I am DEBJIT GHOSH .My father name is BISWAJIT GHOSH and my mother name is PALLABI GHOSH.I live in ASANSOL BURNPUR and my pin code is 713325.my mobile number is 7001805791")
-    elif 'what is mrityunjaya mantra' in command:
-        print("ooooooom traimbakam yajamaha sugandhi pustibardhanam urbarukamabi bandhanam mrityurmukshi maaamritam ooooooom ")
-        talk("ooooooom traimbakam yajamaha sugandhi pustibardhanam urbarukamabi bandhanam mrityurmukshi maaamritam ooooooom")
     elif 'what is father name of my baba' in command:
         print("LATE HARI NARAYAN GHOSH")
         talk("LATE HARI NARAYAN GHOSH")
